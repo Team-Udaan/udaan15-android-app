@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Udaan-15</string>
+
+    <!-- URLs for API calls -->
+    <string name="API_LOGIN">http://192.168.43.115:8000/test</string>
+
+    <!-- Keys for Local Data Storage -->\
+    <string name="FILENAME_LOGIN_DETAILS">com.varun.android.udaan_15.user_preferences</string>
+    <string name="FILENAME_DEPARTMENT_LIST">com.varun.android.udaan_15.departments</string>
+    <string name="FILENAME_EVENT_LIST_TECH">com.varun.android.udaan_15.events_tech</string>
+    <string name="FILENAME_EVENT_LIST_NON_TECH">com.varun.android.udaan_15.events_non_tech</string>
+    <string name="FILENAME_EVENT_LIST_GIRLS">com.varun.android.udaan_15.events_girls</string>
+    <string name="KEY_DND">DND</string>
+    <string name="KEY_CHANNELS">CHANNELS</string>
+
+    <!-- Parse Keys -->
+    <string name="PARSE_APPLICATION_KEY">0iOUzU6X2RFWL1llGfeChZ3UcupbF95c6R39fRTP</string>
+    <string name="PARSE_CLIENT_KEY">p1XEtEQXofQoGzvlHlPka8kVcIlm0Sh9CQz0xgY9</string>
+</resources>
